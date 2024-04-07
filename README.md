@@ -4,10 +4,10 @@
 Open Screenshots folder to view the application screenshots.
 
 GitHub Frontend Repo:
-https://github.com/NisargPatel0711/101340403_comp3133_assig2
+https://github.com/paosanityyy/101384585_comp3133_assignment2.git
 
-Cyclic Backend Deployment Link:
-https://101340403-comp3133-assignment1.cyclic.app/graphql
+Render Backend Deployment Link:
+https://one01384585-comp3133-assig1.onrender.com
 
 Vercel Frontend Deployment Link: 
-https://101340403-comp3133-assig2.vercel.app/
+https://101384585-comp3133-assignment2.vercel.app/
